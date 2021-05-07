@@ -12,6 +12,10 @@ Steven L Truong
 - By doing so, they make sure not to reject people who are capable of repaying their loans, hence helping people to achieve their goals.
 
 
+#### Task:
+The task is to predict future payment behavior of clients from application, demographic and historical credit behavior data.
+
+
 #### Data description:
 - The dataset is acquired from [Kaggle](https://www.kaggle.com/c/home-credit-default-risk/data) which compiles multiple small datasets. 
 - The main dataset is the `application.csv`, along with other usefule sets such as `bureau.csv` and `credit_card_balance.csv`.
