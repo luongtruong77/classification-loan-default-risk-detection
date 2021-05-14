@@ -72,5 +72,5 @@ In this project, I will build classification model to predict if potential clien
 ### Communication
 ---
 - All the notebooks can be found [HERE](https://github.com/luongtruong77/loan_risk_classification/tree/main/notebooks)
-- The link to my presentation can be found [HERE]()
+- The link to my presentation can be found [HERE](https://github.com/luongtruong77/loan_risk_classification/blob/main/Presentation.pdf)
 
